@@ -1,12 +1,18 @@
 # 🎓 My Certificates
-My learning journey: A showcase of earned certifications and technical skills validation.
+*A collection of professional certifications and technical skills validation.*
 
-## 🏆 Certification List
+## 🏆 Certification Showcase
 
 | Certificate Name | Preview |
 | :--- | :---: |
-| **FutureDevType Script** | ![FutureDev](FutureDevType%20Script.png) |
-| **Cyber Security (MOOC)** | ![Cyber](Mooc_Cyber%20Security.png) |
-| **Link American Cabling** | ![Cabling](Link%20American%20Cabling.jpg) |
-| **Artificial Intelligence Ethics** | ![AI](Artificial%20Intelligence%20Ethics.jpg) |
+| **Artificial Intelligence Ethics** | ![AI-Ethics](AI-Ethics.jpg) |
+| **American Cabling** | ![American-Cabling](American-Cabling.jpg) |
+| **Cyber-Security (MOOC)** | ![Cyber-Security](Cyber-Security.png) |
+| **FutureDevType Script** | ![FutureDev-Script](FutureDev-Script.png) |
+
 ---
+
+### 🚀 Summary of Skills
+- **Back-End Architectures:** Dedicated to building high-performance and scalable systems.
+- **Security & Data:** Focused on systematic data management and secure software solutions.
+- **Front-End Presentation:** Experience in modern UI/UX using Vue.js and Figma.
