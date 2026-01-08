@@ -5,10 +5,10 @@
 
 | Certificate Name | Preview |
 | :--- | :---: |
-| **Artificial Intelligence Ethics** | ![AI-Ethics](AI-Ethics.jpg) |
-| **American Cabling** | ![American-Cabling](American-Cabling.jpg) |
-| **Cyber-Security (MOOC)** | ![Cyber-Security](Cyber-Security.png) |
-| **FutureDevType Script** | ![FutureDev-Script](FutureDev-Script.png) |
+| **FutureDevType Script** | ![FutureDev-Script](FutureDev_TypeScript.png) |
+| **Cyber-Security (MOOC)** | ![Cyber-Security](Mooc_Cyber_Security.png) |
+| **American Cabling** | ![American-Cabling](Link_American_Cabling.jpg) |
+| **Artificial Intelligence Ethics** | ![AI-Ethics](Artificial_Intelligence_Ethics.jpg) |
 
 ---
 
